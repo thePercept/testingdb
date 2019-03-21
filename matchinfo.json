@@ -1,0 +1,81 @@
+{
+    "status": "ok",
+    "response": {
+        "match_id": 39604,
+        "title": "Andhra vs Hyderabad (India)",
+        "subtitle": "Elite, Group B",
+        "format": 5,
+        "format_str": "First Class",
+        "status": 2,
+        "status_str": "Completed",
+        "status_note": "Match drawn",
+        "verified": "true",
+        "pre_squad": "true",
+        "odds_available": "false",
+        "game_state": 0,
+        "game_state_str": "Default",
+        "competition": {
+            "cid": 111560,
+            "title": "Ranji Trophy",
+            "abbr": "RJT",
+            "type": "tournament",
+            "category": "domestic",
+            "match_format": "firstclass",
+            "status": "result",
+            "season": "2018/19",
+            "datestart": "2018-11-01",
+            "dateend": "2019-01-10",
+            "total_matches": "160",
+            "total_rounds": "7",
+            "total_teams": "38",
+            "country": "in"
+        },
+        "teama": {
+            "team_id": 12975,
+            "name": "Andhra",
+            "short_name": "AP",
+            "logo_url": "https://cricket.entitysport.com/assets/uploads/2017/10/andhra-120x120.png",
+            "scores_full": "502/7d (154 ov)",
+            "scores": "502/7",
+            "overs": "154"
+        },
+        "teamb": {
+            "team_id": 13000,
+            "name": "Hyderabad",
+            "short_name": "HYD",
+            "logo_url": "https://cricket.entitysport.com/assets/uploads/2018/01/hyderabad-india-120x120.png",
+            "scores_full": "271/10 (90.3 ov) & 251/5 (85 ov)",
+            "scores": "271/10 & 251/5",
+            "overs": "90.3 & 85"
+        },
+        "date_start": "2018-12-30 03:30:00",
+        "date_end": "2019-01-02 15:30:00",
+        "timestamp_start": 1546140600,
+        "timestamp_end": 1546443000,
+        "venue": {
+            "name": "Dr PVG Raju ACA Sports Complex",
+            "location": "Vizianagaram",
+            "timezone": "-12"
+        },
+        "umpires": "Nitin Pandit (India), Krishnamachari Srinivasan (India)",
+        "referee": "Vengalil Narayan Kutty (India)",
+        "equation": "Match drawn",
+        "live": "",
+        "result": "Match drawn",
+        "result_type": 3,
+        "win_margin": "",
+        "winning_team_id": 0,
+        "commentary": 0,
+        "wagon": 0,
+        "latest_inning_number": 3,
+        "toss": {
+            "text": "Andhra won the toss & elected to field",
+            "winner": 12975,
+            "decision": 2
+        }
+    },
+    "etag": "ca8175d8ede697ae860bb97355482ee6",
+    "modified": "2019-02-05 13:11:04",
+    "datetime": "2019-03-21 16:30:57",
+    "api_version": "2.0"
+}
